@@ -1,0 +1,142 @@
+pos,RANK,Heat,bib,,Athlete,mark,note,details,round,reaction time,wind
+1,1,1,1650,CGO,Natacha NGOYE,11.34,,Q,prelim,0.174,0
+2,1,3,2333,STP,Gorete SEMEDO,11.44,,Q,prelim,0.19,1.1
+3,2,3,1590,BOL,Guadalupe TORREZ,11.6,,Q,prelim,0.171,1.1
+4,2,1,2324,SMR,Alessandra GASPARELLI,11.62,,Q,prelim,0.144,0
+5,3,3,2242,PNG,Leonie BEU,11.63,PB,Q,prelim,0.182,1.1
+6,1,4,2318,SKN,Zahria ALLERS-LIBURD,11.73,,Q,prelim,0.164,0.2
+7,3,1,2235,PAR,Xenia HIEBERT,11.77,,Q,prelim,0.161,0
+8,2,4,2151,MAW,Asimenye SIMWAKA,11.78,,Q,prelim,0.146,0.2
+9,1,2,2494,VIE,Thi Nhi Yen TRAN,11.81,,Q,prelim,0.165,0
+10,2,2,1959,GRN,Halle HAZZARD,11.88,,Q,prelim,0.184,0
+11,4,3,2168,NCA,Maria CARMONA,11.88,NR,q,prelim,0.166,1.1
+12,3,4,1960,GUA,Mariandree CHACÓN,11.9,,Q,prelim,0.173,0.2
+13,5,3,1961,GUI,Safiatou ACQUAVIVA,11.97,NR,q,prelim,0.193,1.1
+14,3,2,2379,TPE,Bo-Ya ZHANG,11.99,,Q,prelim,0.147,0
+15,4,4,2319,SLE,Georgiana SESAY,11.99,,q,prelim,0.158,0.2
+16,4,1,2377,TKM,Valentina MEREDOVA,12.01,SB,q,prelim,0.164,0
+17,4,2,1962,GUM,Regine TUGADE-WATSON,12.02,,q,prelim,0.182,0
+18,5,1,2212,NIG,Samira AWALI BOUBACAR,12.06,PB,,prelim,0.187,0
+19,5,4,2378,TOG,Naomi AKAKPO,12.34,PB,,prelim,0.191,0.2
+20,5,2,1902,GEO,Lika KHARCHILAVA,12.37,,,prelim,0.172,0
+21,6,4,2163,MON,Marie-Charlotte GASTAUD,12.41,PB,,prelim,0.179,0.2
+22,6,3,2489,VAN,Chloe DAVID,12.44,PB,,prelim,0.153,1.1
+23,6,1,2125,LAO,Silina PHA APHAY,12.45,SB,,prelim,0.19,0
+24,6,2,2233,PAK,Faiqa RIAZ,12.49,PB,,prelim,0.206,0
+25,7,3,2294,QAT,Shahd ASHRAF,12.53,PB,,prelim,0.177,1.1
+26,7,2,2232,OMA,Mazoon AL ALAWI,12.58,SB,,prelim,0.21,0
+27,8,2,1508,ASA,Filomenaleonisa IAKOPO,12.78,NR,,prelim,0.171,0
+28,8,3,2373,SYR,Alisar YOUSSEF,12.93,PB,,prelim,0.186,1.1
+29,7,1,2241,PLW,Sydney FRANCISCO,13.15,,,prelim,0.239,0
+30,9,2,2392,UAE,Mariam KAREEM,13.26,PB,,prelim,0.149,0
+31,9,3,1501,AFG,Kimia YOUSOFI,13.42,,,prelim,0.16,1.1
+32,7,4,1903,GEQ,Sefora ADA ETO,13.63,PB,,prelim,0.191,0.2
+33,8,1,2166,MTN,Salam Bouha AHAMDY,13.71,PB,,prelim,0.178,0
+34,8,4,2391,TUV,Temalini MANATOA,14.04,PB,,prelim,0.193,0.2
+35,9,4,2325,SOL,Sharon FIRISUA,14.31,PB,,prelim,0.248,0.2
+1,1,8,1685,CIV,Marie-Josée TA LOU-SMITH,10.87,SB,Q,heats,0.154,0.8
+2,2,8,2055,JAM,Shelly-Ann FRASER-PRYCE,10.92,,Q,heats,0.151,0.8
+3,1,3,1883,GBR,Daryll NEITA,10.92,SB,Q,heats,0.133,1.5
+4,1,1,2466,USA,Sha'Carri RICHARDSON,10.94,,Q,heats,0.2,0.1
+5,1,2,2134,LCA,Julien ALFRED,10.95,,Q,heats,0.161,-0.8
+6,1,4,1629,CAN,Audrey LEDUC,10.95,NR,Q,heats,0.172,1.2
+7,2,3,2444,USA,Melissa JEFFERSON,10.96,,Q,heats,0.152,1.5
+8,1,5,2269,POL,Ewa SWOBODA,10.99,SB,Q,heats,0.149,1
+9,2,4,2051,JAM,Tia CLAYTON,11,,Q,heats,0.153,1.2
+10,2,5,1863,GBR,Dina ASHER-SMITH,11.01,,Q,heats,0.151,1
+11,1,7,1860,GAM,Gina Mariam BASS BITTAYE,11.01,,Q,heats,0.148,-0.2
+12,2,7,2345,SUI,Mujinga KAMBUNDJI,11.05,,Q,heats,0.136,-0.2
+13,3,8,1925,GER,Gina LÜCKENKEMPER,11.08,,Q,heats,0.201,0.8
+14,2,2,2226,NZL,Zoe HOBBS,11.08,SB,Q,heats,0.168,-0.8
+15,3,4,1881,GBR,Imani LANSIQUOT,11.1,,Q,heats,0.164,1.2
+16,4,8,1578,BEL,Rani ROSIUS,11.1,PB,q,heats,0.168,0.8
+17,3,3,1972,HUN,Boglárka TAKÁCS,11.1,NR,Q,heats,0.133,1.5
+18,4,3,1717,CZE,Karolína MAŇASOVÁ,11.11,PB,q,heats,0.163,1.5
+19,5,8,2293,PUR,Gladymar TORRES,11.12,NR,q,heats,0.148,0.8
+20,5,3,1833,FRA,Gémima JOSEPH,11.13,,,heats,0.126,1.5
+21,2,1,2144,LUX,Patrizia VAN DER WEKEN,11.14,,Q,heats,0.141,0.1
+22,1,6,2475,USA,Twanisha TERRY,11.15,,Q,heats,0.157,-0.4
+23,4,4,1684,CIV,Maboundou KONÉ,11.17,PB,,heats,0.175,1.2
+24,2,6,2054,JAM,Shashalee FORBES,11.19,,Q,heats,0.14,-0.4
+25,3,7,1575,BEL,Delphine NKANSA,11.2,PB,Q,heats,0.142,-0.2
+26,4,7,1953,GRE,Polyniki EMMANOUILIDOU,11.25,,,heats,0.152,-0.2
+27,5,4,2365,SWE,Julia HENRIKSSON,11.26,,,heats,0.145,1.2
+28,3,5,2199,NGR,Rosemary CHUKWUMA,11.26,,Q,heats,0.161,1
+29,3,1,1537,AUS,Bree MASTERS,11.26,SB,Q,heats,0.17,0.1
+30,4,1,1630,CAN,Jacqueline MADOGO,11.27,,,heats,0.161,0.1
+31,3,6,2381,TTO,Leah BERTRAND,11.27,,Q,heats,0.143,-0.4
+32,5,7,1910,GER,Rebekka HAASE,11.28,,,heats,0.151,-0.2
+33,6,3,1520,AUS,Ella CONNOLLY,11.29,,,heats,0.14,1.5
+34,3,2,2018,ITA,Zaynab DOSSO,11.3,,Q,heats,0.168,-0.8
+35,4,5,1593,BRA,Ana Carolina AZEVEDO,11.32,,,heats,0.137,1
+36,6,7,2202,NGR,Tima Seikeseye GODBLESS,11.33,,,heats,0.153,-0.2
+37,4,2,2380,TTO,Michelle-Lee AHYE,11.33,,,heats,0.164,-0.8
+38,5,5,2338,SUI,Géraldine FREY,11.34,,,heats,0.144,1
+39,4,6,2346,SUI,Salomé KORA,11.35,,,heats,0.144,-0.4
+40,6,5,1742,ECU,Ángela Gabriela TENORIO,11.35,,,heats,0.202,1
+41,6,8,1650,CGO,Natacha NGOYE,11.36,,,heats,0.162,0.8
+42,7,8,1504,ANT,Joella LLOYD,11.37,,,heats,0.143,0.8
+43,5,2,1704,CUB,Yunisleidy GARCÍA ABREU,11.37,,,heats,0.162,-0.8
+44,5,1,2282,POR,Lorène Dorcas BAZOLO,11.38,,,heats,0.151,0.1
+45,5,6,2160,MEX,Cecilia TAMAYO-GARZA,11.39,,,heats,0.142,-0.4
+46,6,2,2333,STP,Gorete SEMEDO,11.43,,,heats,0.189,-0.8
+47,6,6,2362,SVK,Viktória FORSTER,11.44,SB,,heats,0.145,-0.4
+48,6,4,1657,CHN,Manqi GE,11.45,,,heats,0.162,1.2
+49,7,3,2266,POL,Magdalena STEFANOWICZ,11.47,,,heats,0.136,1.5
+50,7,2,1712,CYP,Olivia FOTOPOULOU,11.5,,,heats,0.149,-0.8
+51,7,5,1984,IRI,Farzaneh FASIHI,11.51,,,heats,0.142,1
+52,7,4,2324,SMR,Alessandra GASPARELLI,11.54,NR,,heats,0.14,1.2
+53,6,1,1565,BAR,Tristan EVELYN,11.55,,,heats,0.134,0.1
+54,7,6,1807,FIN,Lotta KEMPPINEN,11.56,,,heats,0.166,-0.4
+55,7,7,2317,SGP,Veronica Shanti PEREIRA,11.63,,,heats,0.162,-0.2
+56,8,3,1590,BOL,Guadalupe TORREZ,11.68,,,heats,0.177,1.5
+57,8,7,1959,GRN,Halle HAZZARD,11.7,,,heats,0.167,-0.2
+58,8,5,2242,PNG,Leonie BEU,11.73,,,heats,0.252,1
+59,7,1,2494,VIE,Thi Nhi Yen TRAN,11.79,,,heats,0.16,0.1
+60,9,7,2235,PAR,Xenia HIEBERT,11.82,,,heats,0.145,-0.2
+61,8,8,1962,GUM,Regine TUGADE-WATSON,11.87,,,heats,0.173,0.8
+62,9,3,2379,TPE,Bo-Ya ZHANG,11.88,SB,,heats,0.151,1.5
+63,8,6,2318,SKN,Zahria ALLERS-LIBURD,11.89,,,heats,0.193,-0.4
+64,8,1,2151,MAW,Asimenye SIMWAKA,11.91,,,heats,0.152,0.1
+65,9,8,2377,TKM,Valentina MEREDOVA,11.95,SB,,heats,0.156,0.8
+66,8,2,2133,LBR,Destiny SMITH-BARNETT,11.99,,,heats,0.139,-0.8
+67,9,6,2168,NCA,Maria CARMONA,12,,,heats,0.174,-0.4
+68,8,4,1606,BRA,Vitoria Cristina ROSA,12.02,,,heats,0.161,1.2
+69,9,1,2131,LBR,Thelma DAVIES,12.05,,,heats,0.158,0.1
+70,9,5,1960,GUA,Mariandree CHACÓN,12.06,,,heats,0.171,1
+71,9,4,1961,GUI,Safiatou ACQUAVIVA,12.07,,,heats,0.18,1.2
+72,9,2,2319,SLE,Georgiana SESAY,12.15,,,heats,0.174,-0.8
+1,1,2,2134,LCA,Julien ALFRED,10.84,,Q,semi-final,0.173,-0.1
+2,2,2,2466,USA,Sha'Carri RICHARDSON,10.89,,Q,semi-final,0.191,-0.1
+3,1,3,2051,JAM,Tia CLAYTON,10.89,,Q,semi-final,0.155,0.2
+4,2,3,1883,GBR,Daryll NEITA,10.97,,Q,semi-final,0.131,0.2
+5,1,1,2444,USA,Melissa JEFFERSON,10.99,,Q,semi-final,0.143,0.1
+6,2,1,1685,CIV,Marie-Josée TA LOU-SMITH,11.01,,Q,semi-final,0.161,0.1
+7,3,1,2345,SUI,Mujinga KAMBUNDJI,11.05,,q,semi-final,0.131,0.1
+8,3,3,2475,USA,Twanisha TERRY,11.07,,q,semi-final,0.161,0.2
+9,4,1,2269,POL,Ewa SWOBODA,11.08,,,semi-final,0.147,0.1
+10,4,3,1925,GER,Gina LÜCKENKEMPER,11.09,,,semi-final,0.2,0.2
+11,5,1,1863,GBR,Dina ASHER-SMITH,11.1,,,semi-final,0.156,0.1
+12,5,3,1629,CAN,Audrey LEDUC,11.1,,,semi-final,0.174,0.2
+13,3,2,1860,GAM,Gina Mariam BASS BITTAYE,11.1,,,semi-final,0.146,-0.1
+14,6,3,2226,NZL,Zoe HOBBS,11.13,,,semi-final,0.191,0.2
+15,4,2,2144,LUX,Patrizia VAN DER WEKEN,11.13,,,semi-final,0.128,-0.1
+16,6,1,2054,JAM,Shashalee FORBES,11.2,,,semi-final,0.144,0.1
+17,5,2,1881,GBR,Imani LANSIQUOT,11.21,,,semi-final,0.158,-0.1
+18,7,1,1972,HUN,Boglárka TAKÁCS,11.26,,,semi-final,0.145,0.1
+19,7,3,1575,BEL,Delphine NKANSA,11.28,,,semi-final,0.14,0.2
+20,8,1,1578,BEL,Rani ROSIUS,11.29,,,semi-final,0.169,0.1
+21,6,2,2293,PUR,Gladymar TORRES,11.33,,,semi-final,0.138,-0.1
+22,7,2,1537,AUS,Bree MASTERS,11.34,,,semi-final,0.164,-0.1
+23,9,1,2018,ITA,Zaynab DOSSO,11.34,,,semi-final,0.169,0.1
+24,8,3,1717,CZE,Karolína MAŇASOVÁ,11.35,,,semi-final,0.145,0.2
+25,9,3,2381,TTO,Leah BERTRAND,11.37,,,semi-final,0.144,0.2
+26,8,2,2199,NGR,Rosemary CHUKWUMA,11.39,,,semi-final,0.19,-0.1
+1,,,2134,LCA,Julien ALFRED,10.72,NR,,final,0.144,-0.1
+2,,,2466,USA,Sha'Carri RICHARDSON,10.87,,,final,0.221,-0.1
+3,,,2444,USA,Melissa JEFFERSON,10.92,,,final,0.144,-0.1
+4,,,1883,GBR,Daryll NEITA,10.96,,,final,0.135,-0.1
+5,,,2475,USA,Twanisha TERRY,10.97,,,final,0.167,-0.1
+6,,,2345,SUI,Mujinga KAMBUNDJI,10.99,,,final,0.136,-0.1
+7,,,2051,JAM,Tia CLAYTON,11.04,,,final,0.16,-0.1
+8,,,1685,CIV,Marie-Josée TA LOU-SMITH,13.84,,,final,0.143,-0.1
